@@ -1,1 +1,2 @@
-121396
+Part 1 Solution: 121396
+Part 2 Solution: 73616634
